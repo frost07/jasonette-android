@@ -1,0 +1,13 @@
+{
+    "$jason": {
+        "head": {
+        },
+        "body": {
+            "background": {
+                "type": "html",
+                "url": "https://californiamoversusa.com/",
+                "action": {"trigger": "navigate"}
+            }
+        }
+    }
+}
